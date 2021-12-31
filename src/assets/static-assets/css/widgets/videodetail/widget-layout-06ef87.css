@@ -1,0 +1,33 @@
+/*_media Width_*/
+/*_media Width bootstrap-4_*/
+/*usage: 
+.class{
+    @include linearGradient(#cccccc, #666666);
+}*/
+/*div::after {
+    @include pseudo;
+    top: -1rem; left: -1rem;
+    width: 1rem; height: 1rem;
+}*/
+/* Center Usage: 
+.child {
+  @include center(horizontal);
+  @include center(vertical);
+  @include center(both);
+}
+.parent {
+  position: relative;
+}
+*/
+/*Max width 1024px Ends*/
+/*Max width 992px Starts*/
+/*Max width 992px Ends*/
+/*Max width 767px Starts*/
+/*Max width 767px ends*/
+/*Max width 1024px Ends*/
+/*Max width 992px Starts*/
+/*Max width 992px Ends*/
+/*Max width 767px Starts*/
+/*Max width 767px ends*/
+
+/*# sourceMappingURL=widget-layout-06.css.map */

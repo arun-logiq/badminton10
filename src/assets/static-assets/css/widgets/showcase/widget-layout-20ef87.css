@@ -1,0 +1,56 @@
+/*_media Width_*/
+/*_media Width bootstrap-4_*/
+/*usage: 
+.class{
+    @include linearGradient(#cccccc, #666666);
+}*/
+/*div::after {
+    @include pseudo;
+    top: -1rem; left: -1rem;
+    width: 1rem; height: 1rem;
+}*/
+/* Center Usage: 
+.child {
+  @include center(horizontal);
+  @include center(vertical);
+  @include center(both);
+}
+.parent {
+  position: relative;
+}
+*/
+/*Max width 1024px Ends*/
+/*Max width 992px Starts*/
+/*Max width 992px Ends*/
+/*Max width 767px Starts*/
+.mod-showcase.widget-layout-20 {
+  margin: -2px -10px;
+  padding: 0px; }
+  .mod-showcase.widget-layout-20 .showcase-img a {
+    cursor: inherit; }
+  .mod-showcase.widget-layout-20 .showcase-content {
+    position: absolute;
+    bottom: 0px;
+    left: 50%;
+    -webkit-transform: translateX(-50%);
+    -moz-transform: translateX(-50%);
+    -ms-transform: translateX(-50%);
+    transform: translateX(-50%);
+    display: none; }
+    .mod-showcase.widget-layout-20 .showcase-content .showcase-title,
+    .mod-showcase.widget-layout-20 .showcase-content .action {
+      display: none; }
+    .mod-showcase.widget-layout-20 .showcase-content .showcase-description {
+      color: #ffffff;
+      font-size: 30px;
+      line-height: 1.2;
+      font-family: "IndustryMedium", sans-serif;
+      text-align: center;
+      padding-bottom: 15px; }
+
+/*Max width 1024px Ends*/
+/*Max width 992px Starts*/
+/*Max width 992px Ends*/
+/*Max width 767px Starts*/
+
+/*# sourceMappingURL=widget-layout-20.css.map */

@@ -1,0 +1,40 @@
+@font-face {
+  font-family: 'IndustryBlack';
+  src: url("../fonts/FortFoundryIndustryBlackItalic.eot");
+  src: url("../fonts/FortFoundryIndustryBlackItalic.eot") format("embedded-opentype"), url("../fonts/FortFoundryIndustryBlackItalic.woff2") format("woff2"), url("../fonts/FortFoundryIndustryBlackItalic.woff") format("woff"), url("../fonts/FortFoundryIndustryBlackItalic.ttf") format("truetype"), url("../fonts/FortFoundryIndustryBlackItalic.svg#FortFoundryIndustryBlackItalic") format("svg"); }
+@font-face {
+  font-family: 'IndustryBold';
+  src: url("../fonts/FortFoundryIndustryBoldItalic.eot");
+  src: url("../fonts/FortFoundryIndustryBoldItalic.eot") format("embedded-opentype"), url("../fonts/FortFoundryIndustryBoldItalic.woff2") format("woff2"), url("../fonts/FortFoundryIndustryBoldItalic.woff") format("woff"), url("../fonts/FortFoundryIndustryBoldItalic.ttf") format("truetype"), url("../fonts/FortFoundryIndustryBoldItalic.svg#FortFoundryIndustryBoldItalic") format("svg"); }
+@font-face {
+  font-family: 'IndustryBook';
+  src: url("../fonts/FortFoundryIndustryBookItalic.eot");
+  src: url("../fonts/FortFoundryIndustryBookItalic.eot") format("embedded-opentype"), url("../fonts/FortFoundryIndustryBookItalic.woff2") format("woff2"), url("../fonts/FortFoundryIndustryBookItalic.woff") format("woff"), url("../fonts/FortFoundryIndustryBookItalic.ttf") format("truetype"), url("../fonts/FortFoundryIndustryBookItalic.svg#FortFoundryIndustryBookItalic") format("svg"); }
+@font-face {
+  font-family: 'IndustryDemi';
+  src: url("../fonts/FortFoundryIndustryDemiItalic.eot");
+  src: url("../fonts/FortFoundryIndustryDemiItalic.eot") format("embedded-opentype"), url("../fonts/FortFoundryIndustryDemiItalic.woff2") format("woff2"), url("../fonts/FortFoundryIndustryDemiItalic.woff") format("woff"), url("../fonts/FortFoundryIndustryDemiItalic.ttf") format("truetype"), url("../fonts/FortFoundryIndustryDemiItalic.svg#FortFoundryIndustryDemiItalic") format("svg"); }
+@font-face {
+  font-family: 'IndustryLight';
+  src: url("../fonts/FortFoundryIndustryLightItalic.eot");
+  src: url("../fonts/FortFoundryIndustryLightItalic.eot") format("embedded-opentype"), url("../fonts/FortFoundryIndustryLightItalic.woff2") format("woff2"), url("../fonts/FortFoundryIndustryLightItalic.woff") format("woff"), url("../fonts/FortFoundryIndustryLightItalic.ttf") format("truetype"), url("../fonts/FortFoundryIndustryLightItalic.svg#FortFoundryIndustryLightItalic") format("svg"); }
+@font-face {
+  font-family: 'IndustryMedium';
+  src: url("../fonts/FortFoundryIndustryMediumItalic.eot");
+  src: url("../fonts/FortFoundryIndustryMediumItalic.eot") format("embedded-opentype"), url("../fonts/FortFoundryIndustryMediumItalic.woff2") format("woff2"), url("../fonts/FortFoundryIndustryMediumItalic.woff") format("woff"), url("../fonts/FortFoundryIndustryMediumItalic.ttf") format("truetype"), url("../fonts/FortFoundryIndustryMediumItalic.svg#FortFoundryIndustryMediumItalic") format("svg"); }
+@font-face {
+  font-family: 'IndustryThin';
+  src: url("../fonts/FortFoundryIndustryThinItalic.eot");
+  src: url("../fonts/FortFoundryIndustryThinItalic.eot") format("embedded-opentype"), url("../fonts/FortFoundryIndustryThinItalic.woff2") format("woff2"), url("../fonts/FortFoundryIndustryThinItalic.woff") format("woff"), url("../fonts/FortFoundryIndustryThinItalic.ttf") format("truetype"), url("../fonts/FortFoundryIndustryThinItalic.svg#FortFoundryIndustryThinItalic") format("svg"); }
+@font-face {
+  font-family: 'IndustryUltra';
+  src: url("../fonts/FortFoundryIndustryUltraItalic.eot");
+  src: url("../fonts/FortFoundryIndustryUltraItalic.eot") format("embedded-opentype"), url("../fonts/FortFoundryIndustryUltraItalic.woff2") format("woff2"), url("../fonts/FortFoundryIndustryUltraItalic.woff") format("woff"), url("../fonts/FortFoundryIndustryUltraItalic.ttf") format("truetype"), url("../fonts/FortFoundryIndustryUltraItalic.svg#FortFoundryIndustryUltraItalic") format("svg"); }
+@font-face {
+  font-family: 'waf-icon-font';
+  src: url("../fonts/waf-icon-fontfce7.eot?14255167");
+  src: url("../fonts/waf-icon-fontfce7.eot?14255167#iefix") format("embedded-opentype"), url("../fonts/waf-icon-fontfce7.woff2?14255167") format("woff2"), url("../fonts/waf-icon-fontfce7.woff?14255167") format("woff"), url("../fonts/waf-icon-fontfce7.ttf?14255167") format("truetype"), url("../fonts/waf-icon-fontfce7.svg?14255167#waf-icon-font") format("svg");
+  font-weight: normal;
+  font-style: normal; }
+
+/*# sourceMappingURL=fonts.css.map */
